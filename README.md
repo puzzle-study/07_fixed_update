@@ -125,7 +125,7 @@ AAAのFPSのような重たい処理なら可変フレームレートが良い�
 - 遷移時間の定数を整数化 (6, 7行目)
 - 「SetTransition」の引数を整数化 (64行目)
   - 中の処理は変更なし
-- 「SetTransition」の呼び出しの引数を整数化 (86, 124行目)
+- 「SetTransition」の呼び出しの引数を整数化 (84, 122行目)
   - 定数の名前で設定するので、実質やることなし
 
 ![状態の更新](images/CodePlayerControllerInt.png)
